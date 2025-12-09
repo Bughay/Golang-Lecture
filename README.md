@@ -6,7 +6,11 @@ Also we wrote a python function to demonstrate what exactly happens with golang 
 
 Plus something cool: I wrote a little Python script that sort of shows what happens when you run go build. It's not exact, but it helps picture the process.
 
-# structure
+#### extract_final.py
+
+python function to convert go build binary file into text files of the code in assembly and binary
+
+We can see exactly how the CPU actually reads the program
 
 #### Golang datatype
 
