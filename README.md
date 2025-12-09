@@ -19,7 +19,7 @@ Here we learned what are structs, how we can create OOP/Class like behaviour in 
 
 we then turned everything to binary format using go build and created a python script to demonstrate how the code actually looks like when it becomes computer readable in the format of assembly and machine code.
 
-# Special thanks for taking the time to listen to my students:
+# Special thanks for taking the time to listen my students:
 
 - Nikita Kiselev 
 
